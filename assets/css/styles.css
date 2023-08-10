@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ .body{
+    /* background-color: violet; */
+    display: flex;
+    /* height: 400px;    */
+    /* width: 1200px; */
+   align-items: center;
+   justify-content: space-evenly;
+   margin:auto;
+   margin-top: 160px;
+}
+.java-cb{
+    height: 316px;
+    width: 348px;
+    /* background-color: red; */
+    box-shadow: 0px 0px 17px 6px rgba(0, 0, 0, 0.27);
+    
+}
+.imagets-java1{
+    height: 222px;
+    width: 348px;
+}
+.para{
+    width: 268px;
+    height: 80px;
+    /* background-color: blue; */
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.para .para-1{
+    width: 268px;
+    height: 40px;
+    font-size: 25px;
+    /* background-color: yellow; */
+
+}
+.para .para-2{
+    width: 348px;
+    height: 40px;
+    /* background-color: green; */
+    display:flex;
+    font-size: 16px;
+    margin-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para-3{
+    padding-right:240px;
+    justify-content: flex-end;
+}
+.para-5{color: yellow;}
+
+
+
+.web-security{
+    height: 316px;
+    width: 348px;
+    /* background-color: yellow; */
+    box-shadow: 0px 0px 17px 6px rgba(0, 0, 0, 0.27);
+}
+.imagets-web1{
+    height: 222px;
+    width: 348px;
+}
+.web1{
+    width: 268px;
+    height: 80px;
+    /* background-color: blue; */
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.web2{
+    width: 268px;
+    height: 40px;
+    font-size: 22px;
+    /* background-color: yellow; */
+
+}
+.web3{
+    width: 348px;
+    height: 40px;
+    /* background-color: green; */
+    display:flex;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 15px;
+}
+.web4{
+    padding-right:240px;
+    justify-content: flex-end;
+}
+.web6{color: yellow;}
+
+
+.python{
+    height: 316px;
+    width: 348px;
+    /* background-color: green; */
+    box-shadow: 0px 0px 17px 6px rgba(0, 0, 0, 0.27);
+}
+.imagets-python1{
+    height: 222px;
+    width: 348px;
+}
+.python1{
+    width: 268px;
+    height: 80px;
+    /* background-color: blue; */
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.python2{
+    width: 268px;
+    height: 40px;
+    font-size: 22px;
+    /* background-color: yellow; */
+
+}
+.python3{
+    width: 348px;
+    height: 40px;
+    /* background-color: green; */
+    display:flex;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 15px;
+}
+.python4{
+    padding-right:240px;
+    justify-content: flex-end;
+}
+.python6{color: yellow;}
